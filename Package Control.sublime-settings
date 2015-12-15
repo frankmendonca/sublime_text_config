@@ -1,0 +1,23 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Advanced CSV",
+		"AlignTab",
+		"All Autocomplete",
+		"Compare Side-By-Side",
+		"FileDiffs",
+		"Find Non ASCII Characters",
+		"HexViewer",
+		"Oracle PL SQL",
+		"Origami",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeREPL",
+		"Theme - SoDaReloaded",
+		"TortoiseSVN"
+	]
+}

@@ -1,0 +1,30 @@
+{
+	"always_show_minimap_viewport": true,
+	"binary_file_patterns":
+	[
+		"target/",
+		"bin/",
+		"tmp/"
+	],
+	"color_scheme": "Packages/Color Scheme - Default/Dawn.tmTheme",
+	"default_enconding": "Western (Windows 1252)",
+	"detect_slow_plugins": false,
+	"ensure_newline_at_eof_on_save": false,
+	"font_face": "Source Code Pro",
+	"font_size": 10,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"indent_guide_options":
+	[
+		"draw_normal"
+	],
+	"show_encoding": true,
+	"show_line_endings": true,
+	"theme": "SoDaReloaded Light.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"use_tab_stops": false,
+	"word_wrap": false
+}
